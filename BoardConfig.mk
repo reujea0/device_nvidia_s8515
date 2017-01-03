@@ -138,3 +138,4 @@ TW_BRIGHTNESS_PATH := /sys/devices/platform/pwm-backlight/backlight/pwm-backligh
 TW_MAX_BRIGHTESS := 255
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/tegra-udc.0/gadget/lun0/file
 
+BOARD_NEEDS_LZMA_MINIGZIP := true
